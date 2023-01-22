@@ -16,7 +16,7 @@ from PIL import Image
 # In[2]:
 
 
-pickle_in = open('/Users/macbook/Desktop/Streamlit-Projects/clasif(telecom).pkl', 'rb')
+pickle_in = open('clasif(telecom).pkl', 'rb')
 
 
 # In[3]:
